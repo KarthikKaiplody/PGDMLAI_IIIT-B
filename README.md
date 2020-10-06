@@ -10,5 +10,8 @@ Projects and Case studies which I have made during my `Post Graduate Diploma` in
 ### Un-Supervised Machine Learning Algorithms
 * [K-means Clustering](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/tree/main/K_means_clustering)
 
+### NLP
+* [POS Tagging using HMM and Viterbi Heuristic]()
+
 ### Important Topics
 * [Calculating Basis Matrix](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/blob/main/Basis_Matrix_Calculation.ipynb)
