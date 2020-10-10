@@ -17,3 +17,6 @@ Projects and Case studies which I have made during my `Post Graduate Diploma` in
 
 ### Important Topics
 * [Calculating Basis Matrix](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/blob/main/Basis_Matrix_Calculation.ipynb)
+
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/karthikkaiplody/)
