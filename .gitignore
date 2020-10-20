@@ -1,7 +1,6 @@
-*.pyc
-.idea/
-**/.idea/
-.ipynb_checkpoints/
-**/.ipynb_checkpoints/
-**/.cache/
-**/.DS_Store
+.pyc
+.idea
+.idea
+.ipynb_checkpoints
+.cache
+.DS_Store
