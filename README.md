@@ -14,6 +14,7 @@ Projects and Case studies which I have made during my `Post Graduate Diploma` in
 
 ### Natural Language Processing [DRAFT]
 * [POS Tagging using HMM and Viterbi Heuristic](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/blob/main/NLP/HMM%2B_based%2BPOS%2Btagging_%2BAssignment.ipynb)
+* [Rasa Chatbot for Restaurant search](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/tree/main/NLP/Rasa_Assignment)
 
 ### Important Topics
 * [Calculating Basis Matrix](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/blob/main/Basis_Matrix_Calculation.ipynb)
