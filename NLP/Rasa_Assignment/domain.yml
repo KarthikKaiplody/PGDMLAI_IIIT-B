@@ -1,0 +1,100 @@
+intents:
+- affirm
+- restaurant_search
+- greet
+- goodbye
+- sending_mail 
+- stop
+entities:
+- cuisine
+- location
+- price
+- people
+- send_mail
+- email_address
+slots:
+  cuisine:
+    type: text
+  location:
+    type: text
+  check_op:
+    type: bool
+  cuisine_check:
+    type: bool
+  send_mail:
+    type: bool
+  email_address:
+    type: text
+  budget:
+    type: text   
+  price: 
+    type: float
+  budget_check:
+    type: bool           
+responses:
+  utter_ask_cuisine:
+  - buttons:
+    - payload: Chinese
+      title: Chinese
+    - payload: Italian
+      title: Italian
+    - payload: South Indian
+      title: South Indian
+    - payload: North Indian
+      title: North Indian
+    text: what kind of cuisine would you like?
+  utter_ask_budget: 
+  - buttons:
+    - payload: low
+      title: Lesser than Rs.300
+    - payload: medium
+      title: Rs.300 to 700
+    - payload: high
+      title: More than Rs.700
+    text: What price range are you looking at?
+  utter_ask_email:
+  - buttons:
+    - payload: Yes
+      title: Yes
+    - payload: No
+      title: No   
+    text: Do you want the search results to be emailed?
+  utter_ask_howcanhelp:
+    - text: how can I help you?
+  utter_ask_location:
+    - text: In what location?
+    - text: May I know the location?
+  utter_default:
+    - text: i cannot understand
+  utter_goodbye:
+    - text: goodbye :(
+    - text: Bye-bye
+    - text: Have a nice day!
+    - text: See you next time :)
+  utter_greet:
+    - text: hey there! How may i help you
+    - text: Hi, How can I help you!
+    - text: Hey, How is it going. How May I help you Today
+  utter_dont_operate_in:
+    - text: Sorry! We don't operate in this location yet.
+    - text: Sorry! Yet to operate in this location.
+  utter_ask_email_address:
+    - text: Please provide the email address
+    - text: What is the email address
+    - text: May I know the email address   
+actions:
+- action_search_restaurants
+- verify_location
+- verify_cuisine
+- verify_budget
+- send_email
+- utter_ask_cuisine
+- utter_ask_howcanhelp
+- utter_ask_location
+- utter_default
+- utter_goodbye
+- utter_greet
+- utter_dont_operate_in
+- utter_ask_email
+- utter_ask_budget
+- utter_ask_email_address
