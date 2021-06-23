@@ -15,7 +15,7 @@ You can find the projects related to Data Analysis, Machine Learning algoriths, 
 #### Un-Supervised Machine Learning Algorithms
 * [K-means Clustering](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/tree/main/K_means_clustering)
 
-#### Natural Language Processing [DRAFT]
+#### Natural Language Processing 
 * [POS Tagging using HMM and Viterbi Heuristic](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/blob/main/NLP/HMM%2B_based%2BPOS%2Btagging_%2BAssignment.ipynb)
 * [Rasa Chatbot for Restaurant search](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/tree/main/NLP/Rasa_Assignment)
 
