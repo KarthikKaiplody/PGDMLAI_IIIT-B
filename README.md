@@ -10,7 +10,7 @@ You can find the projects related to Data Analysis, Machine Learning algoriths, 
 * [Lending Club Case Study](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/tree/main/LendingClubCasestudy)
 * [Investment Assignment](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/tree/main/InvestmentAssignment)
 
-#### Supervised Machine Learning Algorithms [Draft]
+<!-- #### Supervised Machine Learning Algorithms [Draft] -->
 
 #### Un-Supervised Machine Learning Algorithms
 * [K-means Clustering](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/tree/main/K_means_clustering)
