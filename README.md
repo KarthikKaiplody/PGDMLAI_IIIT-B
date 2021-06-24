@@ -24,7 +24,7 @@ You can find the projects related to Data Analysis, Machine Learning algoriths, 
 
 #### Deep Learning
 * [EDA of Image](https://github.com/KarthikKaiplody/PGDMLAI_IIIT-B/blob/main/DeepLearning/Reading_Digital_Image.ipynb)
-* [Gesture Recognition]()
+<!-- * [Gesture Recognition]() -->
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/karthikkaiplody/)
